@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: ru.praktikum.qa.CourierTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 10.163 s <<< FAILURE! - in ru.praktikum.qa.CourierTest
+creatingCourierWithoutFieldLastName(ru.praktikum.qa.CourierTest)  Time elapsed: 0.369 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+JSON path message doesn't match.
+Expected: Недостаточно данных для создания учетной записи
+  Actual: null
+
+	at ru.praktikum.qa.CourierTest.creatingCourierWithoutFieldLastName(CourierTest.java:82)
+

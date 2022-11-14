@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.praktikum.qa.LoginCourierTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.673 s - in ru.praktikum.qa.LoginCourierTest

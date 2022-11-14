@@ -1,0 +1,6 @@
+ru/praktikum/qa/order/OrderClient.class
+ru/praktikum/qa/courier/Client.class
+ru/praktikum/qa/courier/CourierClient.class
+ru/praktikum/qa/order/Order.class
+ru/praktikum/qa/courier/Courier.class
+ru/praktikum/qa/courier/Credentials.class
